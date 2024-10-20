@@ -2,7 +2,7 @@
 ## Current projects:
 Z.Ware - roblox script hub
 
-| Project     | Status                                                          |
+| Game     | Status                                                          |
 |----------|-----------------------------------------------------------------|
 | Project Delta	   | Development       |
 | Trident Survival v4      | Development                                        |
