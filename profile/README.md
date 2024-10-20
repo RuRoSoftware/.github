@@ -1,6 +1,7 @@
 # RuRoSoftware | Roblox scripts developers
-# Current projects:
-## Z.Ware - roblox script hub
+## Current projects:
+Z.Ware - roblox script hub
+
 | Project     | Status                                                          |
 |----------|-----------------------------------------------------------------|
 | Project Delta	   | Development       |
