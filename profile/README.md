@@ -5,7 +5,7 @@ Z.Ware - roblox script hub
 | Game     | Status                                                          |
 |----------|-----------------------------------------------------------------|
 | Project Delta	   | $${\color{yellow}Development}$$       |
-| Trident Survival v4      | $${\color{yellow}Development}$$                                        |
+| Trident Survival v5      | $${\color{yellow}Development}$$                                        |
 | Loader system       | $${\color{yellow}Development}$$                              |
 | CB:RO	   | $${\color{yellow}Development}$$                                         |
 | Fallen	   | $${\color{yellow}Development}$$                                   |
