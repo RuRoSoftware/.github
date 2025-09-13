@@ -1,6 +1,6 @@
 # RuRoSoftware | Roblox scripts developers
 ## Current projects:
-Z.Ware - roblox script hub
+Fractal HUB - roblox script hub
 
 | Game     | Status                                                          |
 |----------|-----------------------------------------------------------------|
