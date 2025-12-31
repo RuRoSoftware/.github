@@ -1,6 +1,6 @@
-# RuRoSoftware | Roblox scripts developers
-## Current projects:
-Fractal HUB - roblox script hub
+# FRACTAL INK ROBLOX SCRIPT DEVELOPER'S
+## Project's
+Fractal - roblox script hub
 
 | Game     | Status                                                          |
 |----------|-----------------------------------------------------------------|
